@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_2e633843",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T14:32:01Z",
+      "side": 1,
+      "message": "This method name is unnecessarily long. I suggest you change to removeStockFromList or something like that.",
+      "range": {
+        "startLine": 46,
+        "startChar": 14,
+        "endLine": 46,
+        "endChar": 38
+      },
+      "revId": "1a5bbfaf8b9144aa8f6798e00b9e56ef88662270",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_0e68fc1b",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T14:32:01Z",
+      "side": 1,
+      "message": "Variable name is not descriptive. Maybe change to stock.",
+      "range": {
+        "startLine": 67,
+        "startChar": 8,
+        "endLine": 67,
+        "endChar": 9
+      },
+      "revId": "1a5bbfaf8b9144aa8f6798e00b9e56ef88662270",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6e59b08d",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T14:32:01Z",
+      "side": 1,
+      "message": "There are multiple methods with the name add...\nThis makes these hard to differentiate, so try to make each one more descriptive.",
+      "range": {
+        "startLine": 96,
+        "startChar": 13,
+        "endLine": 96,
+        "endChar": 21
+      },
+      "revId": "1a5bbfaf8b9144aa8f6798e00b9e56ef88662270",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
