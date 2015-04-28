@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_513f35d6",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004762
+      },
+      "writtenOn": "2015-04-28T16:11:44Z",
+      "side": 1,
+      "message": "actually 14 traders are created. Dr. Hafiz\u0027s comment is incorrect.",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 24
+      },
+      "revId": "04c3b2406c302d18e6f86bd6dc10f675fbdb64b2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
