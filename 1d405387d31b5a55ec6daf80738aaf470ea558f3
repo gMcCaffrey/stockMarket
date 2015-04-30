@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_0049db5f",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-30T00:21:11Z",
+      "side": 1,
+      "message": "Vague variable name, consider using something more descriptive like \"order\"",
+      "range": {
+        "startLine": 83,
+        "startChar": 7,
+        "endLine": 83,
+        "endChar": 14
+      },
+      "revId": "1d405387d31b5a55ec6daf80738aaf470ea558f3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_80a30bff",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-30T00:21:11Z",
+      "side": 1,
+      "message": "The same functionality, consider extracting to a method with an ArrayList as a parameter",
+      "range": {
+        "startLine": 134,
+        "startChar": 2,
+        "endLine": 160,
+        "endChar": 3
+      },
+      "revId": "1d405387d31b5a55ec6daf80738aaf470ea558f3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
