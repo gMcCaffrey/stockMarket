@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_fdc25983",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T19:42:12Z",
+      "side": 1,
+      "message": "This comment could be more clear by saying \"Trader8\u0027s buy should throw an exception\"",
+      "range": {
+        "startLine": 54,
+        "startChar": 7,
+        "endLine": 54,
+        "endChar": 19
+      },
+      "revId": "78e9e6de5489433d0adb9e3297bf0127eeb37a1b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
