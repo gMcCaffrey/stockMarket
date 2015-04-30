@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_4060f3a4",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-30T00:27:43Z",
+      "side": 1,
+      "message": "Same functionality, consider moving priceList.add() and history.put outside of the if else statement",
+      "range": {
+        "startLine": 45,
+        "startChar": 2,
+        "endLine": 54,
+        "endChar": 3
+      },
+      "revId": "d0ede51d42d9fb12e43fd07ef37273f2086b594e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
