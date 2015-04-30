@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_96c23183",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T02:43:40Z",
+      "side": 1,
+      "message": "This comment probably shouldn\u0027t be in the code. This should go in some external version control documentation rather than in the code itself. Also the bug it mentions may already be fixed.",
+      "range": {
+        "startLine": 55,
+        "startChar": 63,
+        "endLine": 55,
+        "endChar": 106
+      },
+      "revId": "4e95523438f0d4f4177ba73b014cf7a21ac63feb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
