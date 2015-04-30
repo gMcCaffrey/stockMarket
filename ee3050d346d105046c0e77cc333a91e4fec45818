@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_1ddf756a",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T19:39:58Z",
+      "side": 1,
+      "message": "Rename variable to reflect object type. Maybe \"marketIn\"",
+      "range": {
+        "startLine": 19,
+        "startChar": 22,
+        "endLine": 19,
+        "endChar": 30
+      },
+      "revId": "ee3050d346d105046c0e77cc333a91e4fec45818",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
